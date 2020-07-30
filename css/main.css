@@ -1,0 +1,112 @@
+@charset "utf-8";
+
+
+#container{}
+
+/*메인슬라이드*/
+#mainSlider{height:800px;overflow:hidden;position:relative;background-color: white;}
+#mainSlider img{position:absolute;right:50%;margin-right:-949px;}
+
+.sliderText{position: absolute;top:50%;margin-top:-125px;padding:0 200px;text-align: right;}
+.sliderText span{display: block;font-size:50px;}
+
+.firstText{width:144px;height:22px;background:url(../images/mainbar_08.png) no-repeat center center;margin:10px 0;}
+.firstText span{text-align:right;padding:3px 158px;}
+
+.firstText span{font-size:18px;}
+
+/*mainCon01*/
+.mainCon01{background:fff;height:730px;}
+
+.Text01{text-align: center;font-size:50px;margin-bottom:35px;}
+.Text01 img{display:inline-block;}
+.Text01 span{display:block;}
+.Text02{}
+.Text02 span{display:block;font-size:15px;text-align: center;}
+
+.con01 {width:273px;float:left;margin-right:36px;color:#fff;font-size:11px;}
+.con01:last-child{margin-right:0;}
+.con01 h3{font-size:20px;}
+.con01 a{width:280px;font-size:15px;color:#fff;}
+.con01 a img{padding:10px 0;width:100%;}
+.con01 p{}
+/*mainCon01*/
+
+/*mainCon02*/
+.mainCon02{height: 800px;background:url(../images/008.png) no-repeat center center;background-size:cover;position: relative;}/*백그라운드 커버 백퍼 차이점*/
+.con02List{position:absolute;top:60%;right:50%;margin-right;margin-right:-463.5px;}
+.con02List li{float: left;margin-right:57px;}
+.con02List li:last-child{margin-right: 0;}
+.con02List li h2{margin-bottom:30px;font-size: 20px;color:#fac9c4;}
+.con02List li img{margin-bottom: 30px;}
+.con02List li p{font-size:12px;color: #fff;margin-bottom:5px;}
+
+
+
+.mainCon03{text-align: center;padding:130px 0;position:relative;}
+.logodesign{width:473px;height:473px; background: url(../images/logo0004_23.png) no-repeat center center;background:cover;text-indent: -9999px;display: inline-block;}
+.con03Text{position:absolute;top:40%;right:40%;margin-right:-255px}
+.con03Text img{display:block;margin-bottom:20px;}
+.con03Text span{display: block;font-size:12px;text-align:left;}
+.con03Text .logoText{font-size:22px;padding: 36px 0;}
+
+.mainCon04{height:600px; text-align: center;}
+.con04Left{display: inline-block;vertical-align: middle;margin-right:110px;}
+.con04Left img{}
+
+
+.con04Right{display: inline-block;vertical-align: middle;text-align:left;}
+.con04Right h3{font-size:30px;margin-bottom: 15px;}
+.con04Right span{display:block;font-size:15px;margin-bottom: 5px;}
+
+.con04color{margin-top:59px;font-size: 20px;}
+.con04color li{float: left;width:10px;height:10px;margin-right:10px;}
+.con04color li img{width: 100%;}
+
+
+.mainCon05{padding:50px 0;text-align: center;}
+.con05Right{float:right;display: inline-block;vertical-align: middle;}
+.con05Right li{}
+.con05Right li a{display: block;}
+.con05Right li a img{display: block;}
+
+
+.con05Left{display: inline-block;padding:0 160px;}
+.con05Left li{}
+.con05Left li a{display:block;}
+.con05Left li a img{display: block;}
+
+
+
+.mainCon06{text-align:center;padding: 50px 0;}
+.con06Right{display: inline-block;vertical-align: middle;margin-right:110px;position: relative;}
+.con06Right img{display: block;}
+.con06Right span{display: block;font-size:24px;text-align: left;}
+.rightTEXT{position: absolute;top:42%;right:11%;}
+.con06Left{display: inline-block;vertical-align: middle;text-align:left;}
+.con06Left h3{font-size:30px;margin-bottom: 15px;}
+.con06Left span{display:block;font-size:15px;margin-bottom: 5px;}
+.rightmore{font-size: 12px;padding:36px 0;}
+.rightmore a{color:#3e3e3e;display: block;}
+
+.con06color{margin-top:59px;font-size: 20px;}
+.con06color li{float: left;width:10px;height:10px;margin-right:10px;}
+.con06color li img{width: 100%;}
+
+
+
+
+.mainCon07{text-align:center;padding:50px 0;}
+.con07Right{display: inline-block;vertical-align: middle;position: relative;}
+.con07Right img{display: block;}
+.con07Right span{display: block;font-size:24px;text-align: left;}
+.rightTEXT{position: absolute;top:42%;right:11%;}
+.con07Left{display: inline-block;vertical-align: middle;text-align:left;margin-right:110px;}
+.con07Left h3{font-size:30px;margin-bottom: 15px;}
+.con07Left span{display:block;font-size:15px;margin-bottom: 5px;}
+.rightmore{font-size: 12px;padding:36px 0;}
+.rightmore a{color:#3e3e3e;display: block;}
+
+.con07color{margin-top:59px;font-size: 20px;}
+.con07color li{float: left;width:10px;height:10px;margin-right:10px;}
+.con07color li img{width: 100%;}

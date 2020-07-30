@@ -1,0 +1,52 @@
+@charset "utf-8";
+
+/*헤더*/
+#header{height:70px;line-height:70px;padding:10px 0;}
+
+#header h1{float:left;width:48px;height:56px;}
+#header h1 a{display: block;}
+#header h1 a img{width:100%;}
+
+
+
+
+#footer{background:#392E2E;height:250px;padding:50px 0;}
+.inner{}
+.f_logo{width:106px;height:36px;}
+.f_logo img{width:100%;display:inline-block;margin-top:100px;}
+
+
+.f_info{color:#fff;width:974px;float:right;top:50px;right:0; font-size:15px;font-weight:100;}
+.f_info span{float:left;}
+.f_info p{color:#fff;font-size:15px;margin:20px 0;float:left;}
+
+
+
+
+
+
+
+
+float:left;margin-right:94px;width:200px;height:200px;border-radius:50%;background:#F8F3F3;
+
+
+
+
+
+
+
+
+
+
+
+
+
+.mainCon05{padding:50px 0;text-align:center;}
+.mainCon05 h3{font-size:25px;margin:20px 0;}
+.mainCon05 p{font-size:14px;font-weight:300;}
+.con05List{margin:80px 10px;display:inline-block;}
+.con05List li{float:left;margin-right:94px;width:200px;height:200px;border-radius:50%;background:#F8F3F3;}
+.con05List li:last-child{margin-right:0;}
+.con05List li a{display:block;}
+.con05List li a img{text-align:center;width:70%;margin:30px 0;}
+.con05List li p{margin:20px 0;display: block;}
